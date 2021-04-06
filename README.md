@@ -1,0 +1,1 @@
+# gigabyte-z490m-gaming-x-hackintosh
