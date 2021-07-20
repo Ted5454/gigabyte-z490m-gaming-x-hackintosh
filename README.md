@@ -1,11 +1,12 @@
 Hardware
 Intel i9-10850k
+intel hd graphics 630
 Gigabyte Z490m gaming x:
 Wifi/BT: DW1560
 
 
 Working
- Tested with macOS macOS Big Sur
+ macOS Monterey
  Wifi and Bluetooth
  Audio
  USB
