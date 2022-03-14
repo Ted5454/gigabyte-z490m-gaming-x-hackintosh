@@ -1,9 +1,9 @@
 Hardware
 Intel i9-10850k
-intel hd graphics 630
+intel hd graphics 630 + RX6600xt
 Gigabyte Z490m gaming x:
-Wifi/BT: DW1560
-
+Wifi/BT: fenvi FV-T919
+SMBIOS:MacPro7,1
 
 Working
  macOS Monterey
@@ -11,3 +11,5 @@ Working
  Audio
  USB
  airdrop
+
+
