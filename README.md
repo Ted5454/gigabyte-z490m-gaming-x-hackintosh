@@ -14,6 +14,6 @@
 - HDMI
 - USB
 - airdrop
-- SMBIOS:MacPro7,1
+- SMBIOS:IMAC20.2
 
 
