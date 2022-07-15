@@ -8,7 +8,7 @@
 
 
 ## Working
-- macOS Monterey
+- macOS Monterey/macOS Ventura
 - Wifi and Bluetooth
 - Audio
 - HDMI
